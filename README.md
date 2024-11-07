@@ -90,9 +90,17 @@ Confusion matrix (a) for pump leakage condition and (b) for valve switching cond
 
 #### Conclusion
 
-A well-crafted README.md is a testament to your skills as a software engineer.
-It not only helps others understand your project but also encourages collaboration and adoption.
-Keep it up, and your projects will thrive in the tech world!
+- This study shows that multi-task transfer learning enhances predictive maintenance in hydraulic systems by sharing knowledge between related tasks like pump 
+  leakage and valve condition monitoring.
+- The multi-task model achieved accuracies of 94.33% for pump leakage and 93.65% for valve condition, demonstrating faster training convergence than traditional 
+  task-specific models. 
+- Transfer learning allowed knowledge gained from one dataset to enhance performance in related models.
+- Federated learning is a viable solution for condition monitoring in hydraulic systems without compromising privacy.
+- The approach ensures data privacy and reduces the need for extensive data sharing.
+- Successful implementation of CNN for multi-output classification of hydraulic system components.
 
-Remember, practice makes perfect, so keep refining your READMEs, and you'll undoubtedly 
-become a better software engineer by the end of this year. Happy coding! 😊🚀
+
+
+
+
+
