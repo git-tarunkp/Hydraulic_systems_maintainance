@@ -62,7 +62,7 @@ Components in hydraulic system  as Targets for condition monitoring:
 ![image](https://github.com/user-attachments/assets/df7b424e-6406-499b-bd4e-10960e5eb9b5)
 
 ## MODEL ARCHITECTURE
-<img src="[image-url](https://github.com/user-attachments/assets/9b7c36fc-c8d0-474a-b06b-34cf74274899)" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/9b7c36fc-c8d0-474a-b06b-34cf74274899" alt="Alt Text" width="300" height="200">
 
 Epochs vs Accuracy graph (a) for Pump leakage and (b) for Valve condition.
 ![image](https://github.com/user-attachments/assets/0fc638c7-5917-4865-9d6d-80020d0ec5ea)
