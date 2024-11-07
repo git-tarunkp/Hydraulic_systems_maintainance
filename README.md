@@ -1,9 +1,9 @@
 # Hydraulic_systems_maintainance
 
 ## Table of Contents
-- [Installation](#installation)
+- [Project description](#ProjectDescription)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Conclusion](#Conclusion)
 - [License](#license)
 
 
