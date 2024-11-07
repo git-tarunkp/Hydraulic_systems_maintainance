@@ -3,8 +3,9 @@
 ## Table of Contents
 - [Project description](#ProjectDescription)
 - [Usage](#usage)
+- [Documentation](#Documentation)
 - [Conclusion](#Conclusion)
-- [License](#license)
+
 
 
 
@@ -76,43 +77,16 @@ Confusion matrix (a) for pump leakage condition and (b) for valve switching cond
 ![image](https://github.com/user-attachments/assets/7dae44e0-81cc-4dd2-b161-b4600bcc7b22)
 
 
-#### Installation
 
-Provide clear instructions on how to install your project, including any prerequisites.
 
 #### Usage
 
-Explain how to use your project, including code examples if applicable.
 
-#### Features
-
-List the main features or functionalities of your project.
-
-#### Contributing
-
-Invite others to contribute and explain how they can do so.
-
-#### License
-
-Specify the project's license to clarify how others can use your code.
-
-#### Badges
-
-Add badges to display information like build status, version, or license.
-These badges can be generated from services like shields.io or Travis CI.
-
-#### Screenshots and GIFs
-
-Include screenshots or GIFs to visually represent your project's interface or 
-functionality.
 
 #### Documentation
+(#links)
 
-Provide links to detailed documentation if available.
 
-#### Changelog
-
-Keep a changelog in your README to track version history and updates.
 
 #### Conclusion
 
