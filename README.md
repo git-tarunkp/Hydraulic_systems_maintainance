@@ -80,7 +80,10 @@ Confusion matrix (a) for pump leakage condition and (b) for valve switching cond
 
 
 #### Usage
+By using model3 and model31 as pre-trained model we can make the tranfer learning multitsk model. these models were created by codes given in pretrainedmodel31h5.ipynb
+pretrainedmodel3h5.ipynb these files.
 
+the Final model was created in file tranfer_learning_multitask_mlp.ipynb
 
 
 #### Documentation
