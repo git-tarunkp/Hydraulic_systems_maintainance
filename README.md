@@ -58,11 +58,11 @@ Components in hydraulic system  as Targets for condition monitoring:
    5. stable flag
 
 
-Transfer learning is a machine learning technique where knowledge gained from one task is applied to improve the performance of another related task. 
+### Transfer learning is a machine learning technique where knowledge gained from one task is applied to improve the performance of another related task. 
 ![image](https://github.com/user-attachments/assets/df7b424e-6406-499b-bd4e-10960e5eb9b5)
 
 ## MODEL ARCHITECTURE
-![image](https://github.com/user-attachments/assets/9b7c36fc-c8d0-474a-b06b-34cf74274899)
+<img src="[image-url](https://github.com/user-attachments/assets/9b7c36fc-c8d0-474a-b06b-34cf74274899)" alt="Alt Text" width="300" height="200">
 
 Epochs vs Accuracy graph (a) for Pump leakage and (b) for Valve condition.
 ![image](https://github.com/user-attachments/assets/0fc638c7-5917-4865-9d6d-80020d0ec5ea)
@@ -74,24 +74,6 @@ Confusion matrix (a) for pump leakage condition and (b) for valve switching cond
 ![image](https://github.com/user-attachments/assets/80849039-b7c2-4294-853f-4d5277dc8c91)
 
 ![image](https://github.com/user-attachments/assets/7dae44e0-81cc-4dd2-b161-b4600bcc7b22)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #### Installation
